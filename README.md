@@ -2,27 +2,37 @@
 
 
 
-This is a sample .NET project to demonstrate a simple loan management API.
+This repository contains a sample ASP.NET Core Web API project demonstrating a simple backend service for managing loan related operations.
 
 
 
-Features
+\## Features
 
-\- Create borrower
+\- Create borrower records
 
-\- Create loan
+\- Create loan accounts
 
-\- Calculate repayment
+\- Calculate loan repayment
+
+\- RESTful API structure
 
 
 
-Tech Stack
-
-\- .NET 8
+\## Tech Stack
 
 \- ASP.NET Core Web API
 
-\- Git
+\- C#
 
-\- GitHub
+\- Git / GitHub
+
+\- REST APIs
+
+
+
+\## Purpose
+
+
+
+This project is a lightweight example of a backend API structure similar to enterprise financial services applications.
 
